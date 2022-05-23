@@ -58,11 +58,19 @@ Fecha: 23 de mayo de 2022
 
 ![Relacion](https://user-images.githubusercontent.com/105677231/169913510-366f1783-10c6-4a0a-a079-6556eceb6468.JPG)
 
+**10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?**
 
- 
+![corriente](https://user-images.githubusercontent.com/105677231/169913628-f3254249-dc8c-4c04-8d94-158653b05308.JPG)
 
+**a):** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 50V/3.3KΩ**, que da como resultado: **15.15mA**
 
+**b):** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 75V/3.9KΩ**, que da como resultado: **19.23mA**
 
+**c):** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 100V/4.7KΩ**, que da como resultado: **21.27mA**
+
+-Respuesta: El circuito que tiene más corriente es el **c**, mientras que el que tiene menos corriente es el **a.**
+
+**12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?**
 
 
 
