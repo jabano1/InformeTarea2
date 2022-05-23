@@ -54,7 +54,9 @@ Fecha: 23 de mayo de 2022
 
 **e) V=10V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **50mA**
 
+**8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.**
 
+![Relacion](https://user-images.githubusercontent.com/105677231/169913510-366f1783-10c6-4a0a-a079-6556eceb6468.JPG)
 
 
  
