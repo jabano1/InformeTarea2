@@ -33,21 +33,24 @@ Fecha: 23 de mayo de 2022
 **Capitulo 3**
 
 **2. Cuando el voltaje a través de un resistor se duplique, la corriente:**
-La respuesta es c) Se duplicará
+
+-La respuesta es c) Se duplicará
 
 Ya que el voltaje es directamente proporcional a la corriente.
 
 **4. Cuando circulan 10mA de corriente a través de un resistor de 1.0kΩ, el voltaje del resistor es:**
 
-Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 10mA* 1.0kΩ)*, se obtiene: **10 V.**
+-Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 10mA* 1.0kΩ)*, se obtiene: **10 V.**
 
 **6. Una corriente de 250µA a través de un resistor de 4.7kΩ produce una caída de voltaje de:**
 
-Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 250µA* 4.7kΩ)*, se obtiene: **1180 mV**, expresado en voltios se obtiene: **1.18V**
+-Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 250µA* 4.7kΩ)*, se obtiene: **1180 mV**, expresado en voltios se obtiene: **1.18V**
 
 **8. Cuanta resistencia se requiere para limitar la corriente de una batería de 10v a 1mA?**
 
+-Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(R= 10V/ 1mA)**, se obtiene: **10000 Ω**, mas simplificado se obtiene: **10kΩ**
 
+**10.
 
 
 
