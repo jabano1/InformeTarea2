@@ -37,6 +37,17 @@ La respuesta es c) Se duplicará
 
 Ya que el voltaje es directamente proporcional a la corriente.
 
+**4. Cuando circulan 10mA de corriente a través de un resistor de 1.0kΩ, el voltaje del resistor es:**
+
+Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 10mA* 1.0kΩ)*, se obtiene: **10 V.**
+
+**6. Una corriente de 250µA a través de un resistor de 4.7kΩ produce una caída de voltaje de:**
+
+Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 250µA* 4.7kΩ)*, se obtiene: **1180 mV**, expresado en voltios se obtiene: **1.18V**
+
+**8. Cuanta resistencia se requiere para limitar la corriente de una batería de 10v a 1mA?**
+
+
 
 
 
