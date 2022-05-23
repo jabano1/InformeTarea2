@@ -82,6 +82,17 @@ NRC: 7318
 
 - El grafico claramente muestra la relacion lineal que existe entre el voltaje y corriente ya que la corriente es linealmente proporcional al voltaje. Mientras que el voltaje aumenta, la corriente tambien lo hará, y el valor de las resistencias se mantiene constante en cada momento.
 
+**16. Determine la corriente en cada caso:**
+
+**a) V=9V; R=2.7kΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 9V/2.7KΩ**, que da como resultado: **3.3mA**
+
+**b) V=5.5V; R=10KΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 5.5V/10KΩ**, que da como resultado: **0.55mA**
+
+**c) V=40V; R=68KΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 40V/68KΩ**, que da como resultado: **0.58mA**
+
+**d) V=1KV; R=2.2KΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 1KV/2.2KΩ**, que da como resultado: **0.45A**
+
+**e) V=66KV; R=10MΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 66KV/10MΩ**, que da como resultado: **6.6mA**
 
 
 **4. Video**
