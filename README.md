@@ -32,25 +32,33 @@ Fecha: 23 de mayo de 2022
 
 **Capitulo 3**
 
-**2. Cuando el voltaje a través de un resistor se duplique, la corriente:**
+**2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos:**
 
--La respuesta es c) Se duplicará
+- En este caso se utiliza la ley de ohm: **I= V/R**
 
-Ya que el voltaje es directamente proporcional a la corriente.
+**4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos:**
 
-**4. Cuando circulan 10mA de corriente a través de un resistor de 1.0kΩ, el voltaje del resistor es:**
+-Despejando la ley de ohm: **I= V/R** , se obtiene que: **R= V/ I**
 
--Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 10mA* 1.0kΩ)*, se obtiene: **10 V.**
+**6. En cierto circuito, I =5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.**
 
-**6. Una corriente de 250µA a través de un resistor de 4.7kΩ produce una caída de voltaje de:**
+-Como el circuito es el mismo para todos los voltajes planteados, la resistencia para los mismos tendría el valor de 200Ω. Despejando la variable R de la ley de Ohm.
 
--Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(V= 250µA* 4.7kΩ)*, se obtiene: **1180 mV**, expresado en voltios se obtiene: **1.18V**
+**a) V=1.5V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **7.5mA**
 
-**8. Cuanta resistencia se requiere para limitar la corriente de una batería de 10v a 1mA?**
+**b) V=2V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **10mA**
 
--Se aplica la ley de ohm que es **I= V/ R** , entonces la respuesta es: **(R= 10V/ 1mA)**, se obtiene: **10000 Ω**, mas simplificado se obtiene: **10kΩ**
+**c) V=3V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **15mA**
 
-**10.
+**d) V=4V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **20mA**
+
+**e) V=10V:** Utilizando la ley de ohm **I= V/R** , el resultado es: **50mA**
+
+
+
+
+ 
+
 
 
 
