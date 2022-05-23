@@ -75,6 +75,15 @@ NRC: 7318
 
 -Para calcular cuantos voltios se necesita es necesario realizar una regla de 3: **V= (20V x 0.15A) / 0.1A**, donde se obtienen : **30v**, este es el nuevo valor al que la fuente debe ser ajustada. La fuente inicial debe aumentar **10V** más para que eso sea posible. 
 
+**14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.**
+
+**Grafico 13**
+![gRAFICO 13](https://user-images.githubusercontent.com/105677231/169917005-7aba19b9-3343-4d5a-af13-94f637308658.JPG)
+
+- El grafico claramente muestra la relacion lineal que existe entre el voltaje y corriente ya que la corriente es linealmente proporcional al voltaje. Mientras que el voltaje aumenta, la corriente tambien lo hará, y el valor de las resistencias se mantiene constante en cada momento.
+
+
+
 **4. Video**
 
 **5. Conclusiones**
