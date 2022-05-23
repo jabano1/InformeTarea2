@@ -1,9 +1,10 @@
 # InformeTarea2
-**Informe Tarea 2**
 
 Nombre: Javier Baño      
 
 Fecha: 23 de mayo de 2022
+
+NRC: 7318
 
 
 ***
@@ -72,7 +73,7 @@ Fecha: 23 de mayo de 2022
 
 **12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?**
 
-
+-Para calcular cuantos voltios se necesita es necesario realizar una regla de 3: **V= (20V x 0.15A) / 0.1A**, donde se obtienen : **30v**, este es el nuevo valor al que la fuente debe ser ajustada. La fuente inicial debe aumentar **10V** más para que eso sea posible. 
 
 **4. Video**
 
