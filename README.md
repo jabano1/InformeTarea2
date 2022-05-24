@@ -120,13 +120,22 @@ NRC: 7318
 
 **e) I=250µA; R=1KΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 250µA x 1KΩ**, que da como resultado: **0.25V**
 
-**f) I=500mA; R=1.5MΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 500mA x 1.5MKΩ**, que da como resultado: **50KV**
+**f) I=500mA; R=1.5MΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 500mA x 1.5MΩ**, que da como resultado: **50KV**
 
 **g) I=850µA; R=10MΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 850µA x 10MΩ**, que da como resultado: **8.5KV**
 
 **h) I=75µA; R=47Ω:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 75µA x 47Ω**, que da como resultado: **3525µV**
 
 
+**26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.**
+
+![ORRI](https://user-images.githubusercontent.com/105677231/170091268-0a433b14-ec3e-4548-8691-bac5e412f5a1.JPG)
+
+**a):** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 3mA x 27KΩ**, que da como resultado: **9V**
+
+**b):** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 5µA x 100MΩ**, que da como resultado: **500V**
+
+**c):** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 2.5A x 47Ω**, que da como resultado: **117.5V**
 
 
 
