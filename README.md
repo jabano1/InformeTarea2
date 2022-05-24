@@ -106,6 +106,27 @@ NRC: 7318
 
 **20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.**
 
+-El valor de la resistencia es de **37.4Ω**.Para calcular la corriente, se utiliza la ley de ohm **I= V/R**, el resultado es: **0.32A**.
+
+**24. Calcule el voltaje para cada valor de I y R:**
+
+**a) I=1mA; R=10Ω:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 1mA x 10Ω**, que da como resultado: **0.01V**
+
+**b) I=50mA; R=33Ω:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 50mA x 33Ω**, que da como resultado: **1.65V**
+
+**c) I=3A; R=5.6KΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 3A x 5.6KΩ**, que da como resultado: **16.8KV**
+
+**d) I=1.6mA; R=2.2KΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 1.6mA x 2.2KΩ**, que da como resultado: **3.52V**
+
+**e) I=250µA; R=1KΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 250µA x 1KΩ**, que da como resultado: **0.25V**
+
+**f) I=500mA; R=1.5MΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 500mA x 1.5MKΩ**, que da como resultado: **50KV**
+
+**g) I=850µA; R=10MΩ:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 850µA x 10MΩ**, que da como resultado: **8.5KV**
+
+**h) I=75µA; R=47Ω:** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 75µA x 47Ω**, que da como resultado: **3525µV**
+
+
 
 
 
