@@ -137,6 +137,19 @@ NRC: 7318
 
 **c):** Despejando la ley de ohm **V= I x R**, se obtiene que el voltaje es igual a **V= 2.5A x 47Ω**, que da como resultado: **117.5V**
 
+**28. Encuentre la resistencia de un reóstato para cada valor de V e I:**
+
+**a) V=10V; I=2A:** Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 10V/ 2A**, que da como resultado: **5Ω**
+
+**b) V=90V; I=45A:**  Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 90V/ 45A**, que da como resultado: **2Ω**
+
+**c) V=50V; I=5AKΩ:**  Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 50V/ 5KA**, que da como resultado: **0.01Ω**
+
+**d) V=5.5V; I=10A:**  Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 5.5V/ 10A**, que da como resultado: **0.55Ω**
+
+**e) V=150V; I=0.5A:**  Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 150V/ 0.5A**, que da como resultado: **300Ω**
+
+
 
 
 **4. Video**
