@@ -94,7 +94,18 @@ NRC: 7318
 
 **e) V=66KV; R=10MΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 66KV/10MΩ**, que da como resultado: **6.6mA**
 
-**18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+**18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.**
+
+- Los colores de la resistencia mencionada obtienen un valor de **3.3kΩ**, para calcular el valor máximo de la corriente y el valor minimo se considera la tolerancia, en este caso la tolerancia es del 5%. Por lo tanto, se resta y se suma el 5% al valor de la resistencia.
+
+-Se obtiene que el nuevo valor +5% es de **3.35kΩ**, la corriente que pasa por este valor utilizando la ley de ohm es de **3.58mA**.
+
+-El valor obtenido -5% de tolerancia es de **3.25kΩ**, la corriente que pasa por este valor utilizando la ley de ohm es de **3.69mA**.
+
+-La respuesta final: El valor máximo de corriente es de **3.69mA** mientras que el valor mínimo es de **3.58mA.**
+
+**20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.**
+
 
 
 
