@@ -94,6 +94,9 @@ NRC: 7318
 
 **e) V=66KV; R=10MΩ:** Utilizando la ley de ohm **I= V/R**, se obtiene que la corriente es igual a **I= 66KV/10MΩ**, que da como resultado: **6.6mA**
 
+**18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+
 
 **4. Video**
 
