@@ -319,3 +319,6 @@ La respuesta es: **83.33 KWh**.
 
 
 **6. Bibliografía**
+
+Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
+
