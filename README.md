@@ -217,6 +217,17 @@ NRC: 7318
 
 **d) 9000 µW:**  Realizando la conversión, multilplicando **9000 x 10^(-6)** se obtiene: **0.009W**.
 
+**12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?**
+
+- Se transforman los dias en horas: **30días= 720h**.
+
+- Se transforman los Watts a Kilowatts: **300W=0.3KW**.
+
+- Se multiplican los watts con las horas dando como respuesta : Se consumen **216 Kwh**.
+
+**14. Convierta 5  106 watts-minutos en kWh.**
+
+
 
 **4. Video**
 
