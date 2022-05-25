@@ -266,11 +266,28 @@ La respuesta es: **83.33 KWh**.
 
 -Se utiliza la formula de la potencia en funcion de la corriente y la resistencia: **P= I^2 x R**
 
-- Reemplazando los valores, se obtiene **100W= 4A x R**
+-Reemplazando los valores, se obtiene **100W= 4A x R**
 
 -La respuesta es: La resistencia tiene que ser de **25Ω**.
 
-**26. 
+**26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.**
+
+-Tansformando la corriente de mA a A, se obtiene: **0.01A**
+
+-Transformando el valor de la resistencia de KΩ a Ω, se obtiene: **6800Ω**
+
+-Utilizando la ley de ohm de obtiene que el voltaje es igual a : **68V**
+
+-Se utiliza la formula de la potencia en funcion de la corriente y el voltaje: **P= v x I**
+
+-La respuesta es: **0.68W**.
+
+**28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.**
+
+![polaridad](https://user-images.githubusercontent.com/105677231/170178051-0287279b-828d-4ef7-b57a-ef6f8af7b68d.JPG)
+
+
+
 
 
 
