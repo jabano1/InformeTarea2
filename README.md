@@ -162,7 +162,7 @@ NRC: 7318
 
 **30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?**
 
- -Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 6V/ 2mA**, que da como resultado: **300Ω**
+ -Despejando la ley de ohm **R= V/ I**, se obtiene que el voltaje es igual a **R= 6V/ 2mA**, que da como resultado: **3KΩ**
 
 **32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.**
 
