@@ -207,6 +207,15 @@ NRC: 7318
 
 **d) 0.0125 W:**  Realizando la conversión se obtiene: **12.5mW**.
 
+**10. Convierta las siguientes cantidades en watts:**
+
+**a) 1.5 KW:** Realizando la conversión, multiplicando **1.5 x 10^3** se obtiene: **1500W**.
+
+**b) 0.5 MW:** Realizando la conversión, multiplicando **0.5 x 10^6** se obtiene: **500000W**.
+
+**c) 350 mW:**  Realizando la conversión, multiplicando **350 x 10^(-3)** se obtiene: **0.35W**.
+
+**d) 9000 µW:**  Realizando la conversión, multilplicando **9000 x 10^(-6)** se obtiene: **0.009W**.
 
 
 **4. Video**
