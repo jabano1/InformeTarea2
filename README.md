@@ -26,8 +26,19 @@ NRC: 7318
 
 **Relacion Corriente, Voltaje y Resistencia**
 ![Relacion C,v,r](https://user-images.githubusercontent.com/105677231/169891316-9e7158f0-84a9-4781-9e8e-1cc20898e2ad.JPG)
+***
 **Localización de Fallas**
 ![localizacion fallas](https://user-images.githubusercontent.com/105677231/169891394-edce5503-860a-4e7a-a0a1-9a0812f55bc5.JPG)
+***
+**Energía y Potencia**
+![Energia y potencia](https://user-images.githubusercontent.com/105677231/170152497-e9ee64a0-c868-49ce-a379-c6452b7cd33a.JPG)
+***
+**Potencia en un Circuito Electrico**
+![Pot en un ce](https://user-images.githubusercontent.com/105677231/170152527-fb644eb5-3ad5-4538-99b0-93dac1c3db5a.JPG)
+***
+**Fuentes de Potencia**
+![F de p](https://user-images.githubusercontent.com/105677231/170152835-496dc558-25aa-4417-aa37-1def07f969fa.JPG)
+***
 
 **3. Explicacion y Resolucion de ejercicios**
 
@@ -155,6 +166,17 @@ NRC: 7318
 
 **32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.**
 
+
+
+**34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω .**
+
+
+
+**36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
+
+**Capitulo 4**
+
+**2. Demuestre que hay 3.6x  10^6 joules en un kilowatt-hora.**
 
 
 
