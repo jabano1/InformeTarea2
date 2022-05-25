@@ -166,6 +166,9 @@ NRC: 7318
 
 **32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.**
 
+![AMPER](https://user-images.githubusercontent.com/105677231/170384793-9f67f33f-fd1a-4e8b-a9b1-ccc8d678c62a.JPG)
+
+-Colocaría el amperimetro en serie, a continuacion de la fuente de voltaje para poder medir la corriente y posterior a eso se calcularía con la ley de ohm el valor de la resistencia solicitada.
 
 
 **34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω .**
