@@ -197,6 +197,17 @@ NRC: 7318
 
 **d) 50000 W:**  Utilizando la notacion de ingeniería se obtiene: **50KW**.
 
+**8. Convierta las siguientes cantidades en miliwatts:**
+
+**a) 1 W:** Realizando la conversión se obtiene: **1000mW**.
+
+**b) 0.4 W:** Realizando la conversión se obtiene: **400mW**.
+
+**c) 0.002 W:**  Realizando la conversión se obtiene: **2mW**.
+
+**d) 0.0125 W:**  Realizando la conversión se obtiene: **12.5mW**.
+
+
 
 **4. Video**
 
