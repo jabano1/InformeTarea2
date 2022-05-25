@@ -174,6 +174,9 @@ NRC: 7318
 
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
+![polaridad](https://user-images.githubusercontent.com/105677231/170180289-046e9389-37d8-4bc0-be4c-69edbaf88f0a.JPG)
+
+
 ***
 **Capitulo 4**
 
@@ -305,5 +308,14 @@ La respuesta es: **83.33 KWh**.
 **4. Video**
 
 **5. Conclusiones**
+
+- La relacion entre corriente, voltaje y potencia son bastante utiles al momento de analizar un circuito ya que se puede saber la potencia que se necesita para que el circuito funcione de la mejor manera posible.
+
+- La localización de fallas es otro aspecto importante a considerar al momento de comprobar el circuito construido. Si un elemento deja de funcionar es esencial seguir los pasos estudiados para conseguir la localizacion del elemento erróneo.
+
+- El calculo de resistencia, voltaje y corriente es esencial para analizar el circuito que se va a construir de tal manera que se sepa como funciona de manera practica y teórica.
+
+- Es importante conocer la relacion de voltaje, corriente y resistencia para conocer el comportamiento de los elementos conectados del circuito.
+
 
 **6. Bibliografía**
