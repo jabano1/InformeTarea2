@@ -171,16 +171,11 @@ NRC: 7318
 -Colocaría el amperimetro en serie, a continuacion de la fuente de voltaje para poder medir la corriente y posterior a eso se calcularía con la ley de ohm el valor de la resistencia solicitada.
 
 
-**34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω .**
-
-
-
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
 ![fallas](https://user-images.githubusercontent.com/105677231/170381727-e66bd590-6e15-4ff3-9fb5-3914af0b6504.JPG)
 
-
-
+-En el circuito presentado, la medicion del ohmetro en el paso 1 es de lectura infinita la cual significa que no esta midiendo continuidad en todo el circuito. Esto signifia algun foco debe estar quemado en el circuito ya que estan conectados en serie. El paso 2 muestra la medicion de 2 focos los cuales se encuentran bien, el paso 3 indica que los dos focos medidos no miden nada, por lo tanto uno de estos se encuentra dañado. El paso 4 muestra que el foco medido esta dañado aparentemente. Sin embargo al estar conectados todos en serie se puede concluir que el foco 3 esta dañado ya que es el unico que no se lo mide individualmente y no se tiene otra referencia en el grafico.
 
 ***
 **Capitulo 4**
