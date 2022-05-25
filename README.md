@@ -286,8 +286,17 @@ La respuesta es: **83.33 KWh**.
 
 ![polaridad](https://user-images.githubusercontent.com/105677231/170178051-0287279b-828d-4ef7-b57a-ef6f8af7b68d.JPG)
 
+**30.Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
+
+**32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
 
+
+**34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
+
+
+
+**36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
 
 
 
