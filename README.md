@@ -236,6 +236,16 @@ La respuesta es: **83.33 KWh**.
 
 ![ejer 16](https://user-images.githubusercontent.com/105677231/170164144-b5cf9c8e-03da-426d-b354-cefa8a3984a0.JPG)
 
+**18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?**
+
+Transformando la corriente de mA a A, se obtiene: **0.003A**.
+
+Se utiliza la fórmula de la potencia en funcion del voltaje y corriente: **P= V x I**
+
+Reemplazando los valores en la ecuación **P= 5.5V x 0.003A**, se obtiene: **0.016 w**.
+
+**20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?**
+
 
 
 **4. Video**
