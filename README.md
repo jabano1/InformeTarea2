@@ -225,7 +225,16 @@ NRC: 7318
 
 - Se multiplican los watts con las horas dando como respuesta : Se consumen **216 Kwh**.
 
-**14. Convierta 5  106 watts-minutos en kWh.**
+**14. Convierta 5 x 10^6 watts-minutos en kWh.**
+- Realizando la conversion:
+
+![tabla conv](https://user-images.githubusercontent.com/105677231/170162491-d46454b5-db81-455c-a34e-c290ca665025.JPG)
+
+La respuesta es: **83.33 KWh**.
+
+**16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?**
+
+![ejer 16](https://user-images.githubusercontent.com/105677231/170164144-b5cf9c8e-03da-426d-b354-cefa8a3984a0.JPG)
 
 
 
