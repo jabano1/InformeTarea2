@@ -174,7 +174,9 @@ NRC: 7318
 
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
-![polaridad](https://user-images.githubusercontent.com/105677231/170180289-046e9389-37d8-4bc0-be4c-69edbaf88f0a.JPG)
+![fallas](https://user-images.githubusercontent.com/105677231/170381727-e66bd590-6e15-4ff3-9fb5-3914af0b6504.JPG)
+
+
 
 
 ***
@@ -289,6 +291,11 @@ La respuesta es: **83.33 KWh**.
 
 ![polaridad](https://user-images.githubusercontent.com/105677231/170178051-0287279b-828d-4ef7-b57a-ef6f8af7b68d.JPG)
 
+-La polaridad de la resistencia se la calcula, tomando en cuenta la fuente de voltaje. La pata de la resistencia tomará la misma polaridad que la del voltaje principal ya que esta conectada directamente y no existen mas elementos conectados.
+
+![polaridad2](https://user-images.githubusercontent.com/105677231/170383079-bf4d04a8-3c84-4528-94de-d054f6e8b145.JPG)
+
+
 **30.Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
 
 **32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
@@ -306,6 +313,8 @@ La respuesta es: **83.33 KWh**.
 
 
 **4. Video**
+
+https://youtu.be/XezM1aU_-4k
 
 **5. Conclusiones**
 
