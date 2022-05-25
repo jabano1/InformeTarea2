@@ -41,7 +41,7 @@ NRC: 7318
 ***
 
 **3. Explicacion y Resolucion de ejercicios**
-
+***
 **Capitulo 3**
 
 **2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos:**
@@ -174,10 +174,28 @@ NRC: 7318
 
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
+***
 **Capitulo 4**
 
 **2. Demuestre que hay 3.6x  10^6 joules en un kilowatt-hora.**
 
+**4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?**
+
+-Se transforma el tiempo de horas a segundos: **5h=1800(s)**
+
+-Aplicando la formula de la potencia **P= W/ t**, se obtiene que la potencia es igual a: **P= 7500J/18000 s**
+
+-Respuesta: Se utilizan 0.41 watts
+
+**6. Convierta las siguientes cantidades en kilowatts:**
+
+**a) 1000 W:** Utilizando la notacion de ingeniería se obtiene: **1KW**.
+
+**b) 3750 W:**  Utilizando la notacion de ingeniería se obtiene: **3.75KW**.
+
+**c) 160 W:**  Utilizando la notacion de ingeniería se obtiene: **0.16KW**.
+
+**d) 50000 W:**  Utilizando la notacion de ingeniería se obtiene: **50KW**.
 
 
 **4. Video**
