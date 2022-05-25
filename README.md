@@ -256,6 +256,23 @@ La respuesta es: **83.33 KWh**.
 
 **22. Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?**
 
+-Se utiliza la fórmula de la potencia en funcion del voltaje y corriente: **P= V x I**
+
+-Se calcula la corriente con la ley de ohm **I= V/R**, se obtiene: **I=60v/ 680Ω**,el resultado es: **I=0.08A**.
+
+-Utilizando la fórmula de la potencia **P= 60V x 0.08A**, la respuesta es: **4.8W**.
+
+**24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.**
+
+-Se utiliza la formula de la potencia en funcion de la corriente y la resistencia: **P= I^2 x R**
+
+- Reemplazando los valores, se obtiene **100W= 4A x R**
+
+-La respuesta es: La resistencia tiene que ser de **25Ω**.
+
+**26. 
+
+
 
 
 
