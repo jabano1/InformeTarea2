@@ -306,8 +306,9 @@ La respuesta es: **83.33 KWh**.
 
 **36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
 
+-Utilizando la formula de eficiencia **Eficiencia= P Salida/ P Entrada**, reemplazando se obtiene: **85%= P Salida/ 5W**.
 
-
+-Respuesta: La potencia de salida tiene que ser de **4.25W**.
 
 
 **4. Video**
