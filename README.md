@@ -298,11 +298,11 @@ La respuesta es: **83.33 KWh**.
 
 **32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
-
+-Se tiene que multilicar los amperios por las horas, entonces se obtiene que la capacidad en amperior-hora es: **36Ah**.
 
 **34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
 
-
+- Utilizando la relacion entre amperios y horas, se divide los ampere-hora sobre las horas, el resultado de corriente promedio que suministrará es de: **13.54mA**.
 
 **36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
 
