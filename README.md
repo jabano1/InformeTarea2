@@ -296,6 +296,8 @@ La respuesta es: **83.33 KWh**.
 
 **30.Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
 
+
+
 **32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
 -Se tiene que multilicar los amperios por las horas, entonces se obtiene que la capacidad en amperior-hora es: **36Ah**.
